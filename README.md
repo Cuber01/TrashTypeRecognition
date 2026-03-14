@@ -12,7 +12,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Then the setup depends on IDE. If you want to run it in terminal you can use:
+Then running the script depends on IDE. If you want to run it in terminal you can use:
 ```bash
 pip install nbconvert
 jupyter nbconvert --to notebook --execute Main.ipynb --output Main_Run.ipynb
