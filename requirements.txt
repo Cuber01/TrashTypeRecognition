@@ -3,7 +3,6 @@ keras
 scikit-learn
 matplotlib
 ipykernel
-roboflowpython-dotenv
 roboflow
-python-dotenvimport
+python-dotenv
 pandas
